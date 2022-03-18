@@ -1,3 +1,4 @@
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ## Hi there 👋, my name is Nhựt Anh
 ### I am a marketer, designer, programer
 ![I am a marketer, designer, programer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
