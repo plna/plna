@@ -3,7 +3,9 @@
 ![I am a marketer, designer, programer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Tên tiếng Anh: Peter
+
 Sinh năm: 1993
+
 Zalo: https://bit.ly/3JnBH9O
 - Nhận làm website wordpress, website bán xe hơi,.... Quản lý trang web, đăng bài và thiết kế hình ảnh phù hợp với trang web.
 - Chạy quảng cáo Google Ads, Facebook,...
