@@ -2,6 +2,7 @@
 ## Hi there 👋, my name is Nhựt Anh
 ### I am a marketer, designer, programer
 
+Tên đầy đủ: Phan Lê Nhựt Anh
 Tên tiếng Anh: Peter
 
 Sinh năm: 1993
