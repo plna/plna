@@ -11,10 +11,12 @@ Zalo: https://bit.ly/3JnBH9O
 - Quản lý trang web, đăng bài và thiết kế hình ảnh phù hợp với trang web.
 - Chạy quảng cáo Google Ads, Facebook,...
 - Thiết kế banner, poster, standee,...
+- Chỉnh sửa Video theo yêu cầu.
 
 
 ## Skills & Experience:
 - ⚒️ Google Ads, Facebook Ads
+- 📷 Photoshop, Illustrator, Lightroom, Premiere, After Effect
 - 💻 PYTHON / JS / HTML / CSS
 
 Làm Marketing tại Toyota Thập Nhất Phong Vĩnh Long từ 01/2021
