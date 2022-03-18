@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Nhựt Anh
-#### I am a marketer, designer, programer
+## Hi there 👋, my name is Nhựt Anh
+### I am a marketer, designer, programer
 ![I am a marketer, designer, programer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Tên tiếng Anh: Peter
@@ -13,8 +13,11 @@ Zalo: https://bit.ly/3JnBH9O
 
 Làm Marketing tại Toyota Thập Nhất Phong Vĩnh Long từ 01/2021
 
-Skills: PYTHON / JS / HTML / CSS
+## Skills & Experience:
+- ⚒️ Google Ads, Facebook Ads
+- 💻 PYTHON / JS / HTML / CSS
 
+## Other
 - 🔭 I’m currently working on Toyota Thập Nhất Phong Vĩnh Long 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on programer, developer, software engineer, data analyst 
