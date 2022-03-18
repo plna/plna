@@ -16,6 +16,7 @@ Zalo: https://bit.ly/3JnBH9O
 ## Skills & Experience:
 - ⚒️ Google Ads, Facebook Ads
 - 💻 PYTHON / JS / HTML / CSS
+
 Làm Marketing tại Toyota Thập Nhất Phong Vĩnh Long từ 01/2021
 
 ## Other
