@@ -12,11 +12,11 @@ Zalo: https://bit.ly/3JnBH9O
 - Chạy quảng cáo Google Ads, Facebook,...
 - Thiết kế banner, poster, standee,...
 
-Làm Marketing tại Toyota Thập Nhất Phong Vĩnh Long từ 01/2021
 
 ## Skills & Experience:
 - ⚒️ Google Ads, Facebook Ads
 - 💻 PYTHON / JS / HTML / CSS
+Làm Marketing tại Toyota Thập Nhất Phong Vĩnh Long từ 01/2021
 
 ## Other
 - 🔭 I’m currently working on Toyota Thập Nhất Phong Vĩnh Long 
