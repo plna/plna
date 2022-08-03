@@ -1,4 +1,4 @@
-![I am a marketer, designer, programer](https://github.com/plna/plna/raw/main/github_profile2.jpg)
+![I am a marketer, designer, programer](https://raw.githubusercontent.com/plna/plna/main/github%20profile.jpg)
 ## Hi there 👋, my name is Nhựt Anh
 ### I am a marketer, designer, programer
 
