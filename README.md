@@ -1,27 +1,21 @@
 ![I am a marketer, designer, programer](https://raw.githubusercontent.com/plna/plna/main/github%20profile.jpg)
 ## Hi there 👋, my name is Nhựt Anh
-### I am a marketer, designer, programer
+### I am a freelancer
 
-Tên đầy đủ: Phan Lê Nhựt Anh
+Name: Nhựt Anh
+Nickname: Peter
 
-Tên tiếng Anh: Peter
-
-Sinh năm: 1993
-
-Zalo: https://bit.ly/3JnBH9O
+Zalo: 084 8485 088
 - Nhận làm website wordpress, website bán xe hơi, website với nội dung theo yêu cầu.... 
 - Quản lý trang web, đăng bài và thiết kế hình ảnh phù hợp với trang web.
 - Chạy quảng cáo Google Ads, Facebook,...
 - Thiết kế banner, poster, standee,...
 - Chỉnh sửa Video theo yêu cầu.
 
-
 ## Skills & Experience:
 - ⚒️ Google Ads, Facebook Ads
 - 📷 Photoshop, Illustrator, Lightroom, Premiere, After Effect
 - 💻 PYTHON / JS / HTML / CSS
-
-Làm Marketing tại Toyota Thập Nhất Phong Vĩnh Long từ 01/2021
 
 ## Other
 - 🔭 I’m currently working on Toyota Thập Nhất Phong Vĩnh Long 
