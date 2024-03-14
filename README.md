@@ -22,9 +22,5 @@ Nickname: Peter
 - 😄 Pronouns: Mr. 
 - ⚡ Fun fact: debug 
 
-## Social
-Các bạn có thêt liên hệ với mình bằng mạng xã hội khác như linkedin, facebook,... qua link icon bên dưới:
-https://www.facebook.com/plnanh
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plna)](https://github.com/anuraghazra/github-readme-stats)
 
