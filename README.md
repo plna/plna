@@ -18,7 +18,6 @@ Nickname: Peter
 
 ## Other
 - 💬 Ask me about anything 
-- 📫 How to reach me: phone, zalo 
 - 😄 Pronouns: Mr. 
 - ⚡ Fun fact: debug 
 
