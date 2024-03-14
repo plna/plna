@@ -6,23 +6,17 @@ Name: Nhựt Anh
 
 Nickname: Peter
 
-Zalo: 084 8485 088
 - Nhận làm website wordpress, website bán xe hơi, website với nội dung theo yêu cầu.... 
 - Quản lý trang web, đăng bài và thiết kế hình ảnh phù hợp với trang web.
 - Chạy quảng cáo Google Ads, Facebook,...
 - Thiết kế banner, poster, standee,...
-- Chỉnh sửa Video theo yêu cầu.
 
 ## Skills & Experience:
 - ⚒️ Google Ads, Facebook Ads
-- 📷 Photoshop, Illustrator, Lightroom, Premiere, After Effect
-- 💻 PYTHON / JS / HTML / CSS
+- 📷 Photoshop, illustrator
+- 💻 PYTHON / HTML / CSS
 
 ## Other
-- 🔭 I’m currently working on Toyota Thập Nhất Phong Vĩnh Long 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on programer, developer, software engineer, data analyst 
-- 🤔 I’m looking for help with frontend job 
 - 💬 Ask me about anything 
 - 📫 How to reach me: phone, zalo 
 - 😄 Pronouns: Mr. 
