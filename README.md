@@ -26,7 +26,5 @@ Nickname: Peter
 Các bạn có thêt liên hệ với mình bằng mạng xã hội khác như linkedin, facebook,... qua link icon bên dưới:
 https://www.facebook.com/plnanh
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plna)](https://github.com/anuraghazra/github-readme-stats)
 
