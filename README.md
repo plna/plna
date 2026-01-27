@@ -4,8 +4,6 @@
 
 Name: Nhựt Anh
 
-Nickname: Peter
-
 - Nhận làm website wordpress, website bán xe hơi, website với nội dung theo yêu cầu.... 
 - Quản lý trang web, đăng bài và thiết kế hình ảnh phù hợp với trang web.
 - Chạy quảng cáo Google Ads, Facebook,...
