@@ -19,5 +19,5 @@ Name: Nhựt Anh
 - 😄 Pronouns: Mr. 
 - ⚡ Fun fact: debug 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plna)](https://github.com/anuraghazra/github-readme-stats)
+
 
