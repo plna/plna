@@ -1,4 +1,4 @@
-([https://raw.githubusercontent.com/plna/plna/refs/heads/main/Freelance%20Video%20Editor%20Workspace.jpg])
+![Peter Phan | Freelancer](https://raw.githubusercontent.com/plna/plna/refs/heads/main/Freelance%20Video%20Editor%20Workspace.jpg)
 ## About Me
 
 Hi, I’m **Peter Phan (Phan Lê Nhựt Anh)**.
