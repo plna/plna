@@ -1,13 +1,25 @@
 ![I am a marketer, designer, programer](https://raw.githubusercontent.com/plna/plna/main/github%20profile.jpg)
-## Hi there 👋, my name is Nhựt Anh
-### I am a freelancer
+## About Me
 
-Name: Nhựt Anh
+Hi, I’m **Peter Phan (Phan Lê Nhựt Anh)**.
 
-- Nhận làm website wordpress, website bán xe hơi, website với nội dung theo yêu cầu.... 
-- Quản lý trang web, đăng bài và thiết kế hình ảnh phù hợp với trang web.
-- Chạy quảng cáo Google Ads, Facebook,...
-- Thiết kế banner, poster, standee,...
+I’m a Video Editor with 3 years of experience editing both short-form and long-form content. I mainly work with DaVinci Resolve and focus on clean cuts, pacing, storytelling, captions, transitions, sound, and overall flow.
+
+I enjoy taking raw footage and turning it into a video that feels natural and easy to watch. I can adapt my editing style depending on the type of content, whether it’s social media videos, YouTube content, or other projects.
+
+I’m available for freelance video editing work and open to both one-time projects and ongoing work.
+
+---
+
+### 🇻🇳 Tiếng Việt
+
+Xin chào, tôi là **Peter Phan (Phan Lê Nhựt Anh)**.
+
+Tôi là Video Editor với 3 năm kinh nghiệm chỉnh sửa cả video ngắn và video dài. Tôi chủ yếu sử dụng DaVinci Resolve, tập trung vào cắt dựng, nhịp video, storytelling, phụ đề, chuyển cảnh, âm thanh và tổng thể mạch nội dung.
+
+Tôi thích biến những footage thô thành những video tự nhiên, rõ ràng và dễ xem. Tôi có thể điều chỉnh phong cách dựng tùy theo từng loại nội dung, từ video mạng xã hội, YouTube đến các dự án khác.
+
+Tôi nhận các dự án video editing freelance, bao gồm cả dự án ngắn hạn và công việc lâu dài.
 
 ## Skills & Experience:
 - ⚒️ Google Ads, Facebook Ads
