@@ -1,4 +1,4 @@
-![I am a marketer, designer, programer]([https://raw.githubusercontent.com/plna/plna/main/github%20profile.jpg](https://raw.githubusercontent.com/plna/plna/refs/heads/main/Freelance%20Video%20Editor%20Workspace.jpg))
+([https://raw.githubusercontent.com/plna/plna/refs/heads/main/Freelance%20Video%20Editor%20Workspace.jpg])
 ## About Me
 
 Hi, I’m **Peter Phan (Phan Lê Nhựt Anh)**.
