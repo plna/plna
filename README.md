@@ -29,8 +29,7 @@ Tôi nhận làm website wordpress như web xe ô tô, website bán hàng sử d
 
 Và chạy quảng cáo Facebook và Google Ads (chỉ nhận số lượng hạn chế, chi tiết có thể liên hệ để trao đổi)
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phanlenhutanh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phanlenhutanh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:peterp.digi@gmail.com) 
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phanlenhutanh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phanlenhutanh)
 ## Skills
 
 ### 🎬 Video Editing
