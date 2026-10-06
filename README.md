@@ -9,6 +9,8 @@ I enjoy taking raw footage and turning it into a video that feels natural and ea
 
 I’m available for freelance video editing work and open to both one-time projects and ongoing work.
 
+WhatsApp: @peterp.freelance
+
 ---
 
 ### 🇻🇳 Tiếng Việt
@@ -21,15 +23,30 @@ Tôi thích biến những footage thô thành những video tự nhiên, rõ r�
 
 Tôi nhận các dự án video editing freelance, bao gồm cả dự án ngắn hạn và công việc lâu dài.
 
-## Skills & Experience:
-- ⚒️ Google Ads, Facebook Ads
-- 📷 Photoshop, illustrator
-- 💻 PYTHON / HTML / CSS
+Tôi nhận làm website wordpress như web xe ô tô, web bán hàng Shopify,....
 
-## Other
-- 💬 Ask me about anything 
-- 😄 Pronouns: Mr. 
-- ⚡ Fun fact: debug 
+Chạy quảng cáo Facebook và Google Ads (chỉ nhận số lượng hạn chế, chi tiết có thể liên hệ để trao đổi)
+
+## Skills
+
+### 🎬 Video Editing
+- DaVinci Resolve
+- Short-form & Long-form Video
+- Social Media Content
+- Basic Motion Graphics
+- Audio Editing
+
+### 🌐 Web Design
+- WordPress
+- HTML
+- CSS
+- Responsive Web Design
+- Website Customization
+
+### 🎨 Digital Design
+- Planner Templates
+- Digital Products
+- Visual Content
 
 
 
