@@ -3,9 +3,12 @@ name: Sync Profile README to GitHub IO Index
 on:
   push:
     branches:
-      - main  # Kích hoạt khi bạn push lên nhánh main của repo plna/plna
+      - main  # Kích hoạt khi bạn push lên nhánh 'main' của repo plna/plna
     paths:
-      - 'README.md' # Chỉ chạy khi có sự thay đổi riêng ở file README.md
+      - 'README.md' # Chỉ chạy khi bạn sửa đổi file README.md
+
+permissions:
+  contents: write # Cấp quyền ghi dữ liệu để Action có thể đẩy code
 
 jobs:
   sync:
@@ -16,24 +19,24 @@ jobs:
 
       - name: Push README as index.md to GitHub IO
         run: |
-          # 1. Cấu hình thông tin Git cá nhân
+          # 1. Cấu hình định danh Git tạm thời
           git config --global user.name "plna"
-          git config --global user.email "plna@users.noreply.github.com"
+          git config --global user.email "plna@://github.com"
           
-          # 2. Clone repo đích (plna.github.io) bằng Token bảo mật
+          # 2. ĐÃ THÊM TÊN REPO: Tải repo đích plna.github.io về thư mục tạm target_repo
           git clone https://x-access-token:${{ secrets.SYNC_TOKEN }}@://github.com target_repo
           
-          # 3. Sao chép và đổi tên file README.md thành index.md đè vào repo đích
+          # 3. Copy file README.md sang thư mục tạm và đổi tên thành index.md
           cp README.md target_repo/index.md
           
-          # 4. Di chuyển vào thư mục repo đích để commit thay đổi
+          # 4. Truy cập vào thư mục tạm để chuẩn bị commit
           cd target_repo
           git add index.md
           
-          # 5. Kiểm tra nếu có thay đổi thật sự thì mới thực hiện commit và push
+          # 5. Kiểm tra nếu file index.md thực sự có thay đổi so với bản cũ
           if ! git diff-index --quiet HEAD --; then
             git commit -m "Auto-sync from plna/plna Profile README"
-            git push origin master  # Đẩy lên nhánh master của repo plna.github.io
+            git push origin master  # Đẩy lên nhánh 'master' của repo plna.github.io
           else
-            echo "Không có thay đổi nào cần đồng bộ."
+            echo "Không phát hiện thay đổi mới nào ở nội dung. Bỏ qua đồng bộ."
           fi
