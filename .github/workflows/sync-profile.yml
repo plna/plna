@@ -3,7 +3,7 @@ name: Sync Profile to Website
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - README.md
 
