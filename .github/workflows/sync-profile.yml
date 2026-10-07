@@ -1,42 +1,23 @@
-name: Sync Profile README to GitHub IO Index
+name: Sync Profile to Website
 
 on:
   push:
     branches:
-      - main  # Kích hoạt khi bạn push lên nhánh 'main' của repo plna/plna
+      - main
     paths:
-      - 'README.md' # Chỉ chạy khi bạn sửa đổi file README.md
-
-permissions:
-  contents: write # Cấp quyền ghi dữ liệu để Action có thể đẩy code
+      - README.md
 
 jobs:
-  sync:
+  notify-website:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Source Repo
-        uses: actions/checkout@v4
 
-      - name: Push README as index.md to GitHub IO
+    steps:
+      - name: Trigger website sync
+        env:
+          GH_TOKEN: ${{ secrets.WEBSITE_SYNC_TOKEN }}
         run: |
-          # 1. Cấu hình định danh Git tạm thời
-          git config --global user.name "plna"
-          git config --global user.email "plna@://github.com"
-          
-          # 2. ĐÃ THÊM TÊN REPO: Tải repo đích plna.github.io về thư mục tạm target_repo
-          git clone https://x-access-token:${{ secrets.SYNC_TOKEN }}@://github.com target_repo
-          
-          # 3. Copy file README.md sang thư mục tạm và đổi tên thành index.md
-          cp README.md target_repo/index.md
-          
-          # 4. Truy cập vào thư mục tạm để chuẩn bị commit
-          cd target_repo
-          git add index.md
-          
-          # 5. Kiểm tra nếu file index.md thực sự có thay đổi so với bản cũ
-          if ! git diff-index --quiet HEAD --; then
-            git commit -m "Auto-sync from plna/plna Profile README"
-            git push origin master  # Đẩy lên nhánh 'master' của repo plna.github.io
-          else
-            echo "Không phát hiện thay đổi mới nào ở nội dung. Bỏ qua đồng bộ."
-          fi
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            /repos/plna/plna.github.io/dispatches \
+            -f event_type=sync-profile
